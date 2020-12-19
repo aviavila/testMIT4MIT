@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="webdriver maneger">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../אוטומציה 210120/files/jar/webdriver maneger" />
+      <root url="file://$PROJECT_DIR$/../אוטומציה 210120/files/jar/gmail" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../אוטומציה 210120/files/jar/gmail" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../אוטומציה 210120/files/jar/webdriver maneger" recursive="false" />
+  </library>
+</component>
